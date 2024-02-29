@@ -1,16 +1,3 @@
-h1 {
-
-    color:black;
-}
-header {
-background-color:  rgb(252, 247, 239);
-
-}
-.logo{
-margin-left:0px;
-
-}
-
 .navbar ul {
     list-style-type: none;
     margin: 0;
@@ -29,24 +16,4 @@ margin-left:0px;
 .navbar ul li a {
     text-decoration: none; /* Supprimer le soulignement par défaut des liens */
     color: black; /* Couleur du texte des liens */
-}
-
-.Big {
-    margin-right: 300px; /* Espacement entre le logo et le menu */
-}
-
-footer {
-
-    color: antiquewhite;
-}
-button {
-    color: white;
-    background-color: darkorange;
-    border: transparent;
-    margin: 50;
-}
-footer{
-color: black;
-background-color: rgb(252, 247, 239);
-
 }
