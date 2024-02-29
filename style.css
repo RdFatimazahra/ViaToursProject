@@ -2,10 +2,22 @@ h1 {
 
     color:black;
 }
+header {
+background-color:  rgb(252, 247, 239);
+
+}
+
 footer {
 
     color: antiquewhite;
 }
 button {
-    color: darkorange;
+    color: white;
+    background-color: darkorange;
+    border: transparent;
+}
+footer{
+color: black;
+background-color: rgb(252, 247, 239);
+
 }
