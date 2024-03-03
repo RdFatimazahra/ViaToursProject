@@ -40,14 +40,10 @@ li{
     width: 40%;
     margin-left:80px;
     margin-top: 40px;
-}s
+}
 
 footer{
-background-color: rgb(252, 247, 239);
-height: 200px;
-padding-left: 8%;
-padding-top: 60px;
-display: grid;
-gap: 24px;
-padding-bottom: 60px;
+    background-color: #FDF0EA;
+    height: 200px;
+    padding-left: 30px;
 }
