@@ -36,11 +36,37 @@ li{
 
     margin-right: 260px;
 }
-.grand{
+.big{
     width: 40%;
     margin-left:80px;
     margin-top: 40px;
 }
+
+#adv1{
+    margin-right: 30px;
+}
+#adv2{
+    margin-right: 30px;
+}
+#adv3{
+    margin-right: 30px;
+}
+#adv4{
+    margin-right: 30px;
+}
+
+.explorer{
+    background-color: #EB662B;
+    border: none;
+    padding: 8px;
+    margin-left: 1px;
+    color:white;
+    height: 30px;
+    width:110px ;
+
+
+}
+
 
 footer{
     background-color: #FDF0EA;
