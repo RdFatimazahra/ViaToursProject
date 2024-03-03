@@ -1,52 +1,53 @@
-h1 {
-
-    color:black;
-}
+body{
+    margin: 0;
+ }
 header {
 background-color:  rgb(252, 247, 239);
 
 }
 .logo{
-margin-left:0px;
+    margin: 20px;
+}
+.navbar{
+    display: flex;
+}
+ul{
+    display:flex;
+    list-style:none;
 
 }
+li{
+    margin-left: 40px;
+    margin-top: 15px;
 
-.navbar ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex; /* Utilisation de flexbox pour afficher les éléments en ligne */
+}
+.login{
+    background-color: #EB662B;
+    border: none;
+    color:white;
+    width: 70px;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 25px;
 }
 
-.navbar ul li {
-    margin-right: 20px; /* Espacement entre chaque élément de la liste */
-}
+.title1{
+    display:flex;
 
-.navbar ul li:last-child {
-    margin-right: 0; /* Supprimer la marge à droite du dernier élément de la liste */
+    margin-right: 260px;
 }
+.grand{
+    width: 40%;
+    margin-left:80px;
+    margin-top: 40px;
+}s
 
-.navbar ul li a {
-    text-decoration: none; /* Supprimer le soulignement par défaut des liens */
-    color: black; /* Couleur du texte des liens */
-}
-
-.Big {
-    margin-right: 300px; /* Espacement entre le logo et le menu */
-}
-
-footer {
-
-    color: antiquewhite;
-}
-button {
-    color: white;
-    background-color: darkorange;
-    border: transparent;
-    margin: 50;
-}
 footer{
-color: black;
 background-color: rgb(252, 247, 239);
-
+height: 200px;
+padding-left: 8%;
+padding-top: 60px;
+display: grid;
+gap: 24px;
+padding-bottom: 60px;
 }
