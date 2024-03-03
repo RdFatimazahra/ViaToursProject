@@ -22,7 +22,7 @@ li{
 
 }
 .login{
-    background-color: #EB662B;
+    background-color:coral;
     border: none;
     color:white;
     width: 70px;
@@ -38,9 +38,41 @@ li{
 }
 .big{
     width: 40%;
-    margin-left:80px;
+    margin-left:90px;
     margin-top: 40px;
 }
+#Big_pic{
+margin-left:90px;
+
+}
+
+#h3{
+    width:20 ;
+    margin-left: 60px;
+    margin-top: 20px;
+ }
+#img1{
+    width: 15%;
+
+}
+
+ .explorer{
+    background-color: #EB662B;
+    border: none;
+    padding: 8px;
+    margin-left: 1px;
+    color:white;
+    height: 30px;
+    width:110px ;
+
+
+}
+ .avantage {
+     display: flex;
+     margin: 50px;
+ 
+ 
+ }
 
 #adv1{
     margin-right: 30px;
@@ -55,21 +87,10 @@ li{
     margin-right: 30px;
 }
 
-.explorer{
-    background-color: #EB662B;
-    border: none;
-    padding: 8px;
-    margin-left: 1px;
-    color:white;
-    height: 30px;
-    width:110px ;
-
-
-}
-
 
 footer{
     background-color: #FDF0EA;
     height: 200px;
     padding-left: 30px;
+    padding-top: 5px;
 }
